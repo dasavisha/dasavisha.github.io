@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sriharsha's Personal Website"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Accomplished, achievements-driven, and results-oriented geophysics graduate seeking an internship in the oil and gas industry.
+A motivated Ph.D. candidate working on Information Retrieval and Natural Language Processing for Security Analytics. 
+Her research includes the application and study of deep learning in natural language generation and studying the extent of misinformation in human lives.
