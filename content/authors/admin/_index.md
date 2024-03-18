@@ -1,50 +1,49 @@
 ---
 # Display name
-title: 吳健雄
+title: Dr. Avisha Das, PhD
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:  Ah - V EE - sh - ah 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Avisha
+last_name: Das
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🐨
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Fellow, Natural Language Processing
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Mayo Clinic Arizona
+    url: https://www.mayoclinic.org/patient-visitor-guide/arizona
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Generative language modeling, Biomedical NLP and AI Security.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Generative Language Modeling
   - Computational Linguistics
   - Information Retrieval
+  - Biomedical NLP
+  - AI Security
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science
+      institution: University of Houston
+      year: 2020
+    - course: BTech in Electronics and Comm. Engineering
+      institution: Heritage Institute of Technology
+      year: 2014
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -53,37 +52,37 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Deep Learning
         description: ''
-        percent: 100
-        icon: chart-line
+        percent: 70
+        icon: devicon/tensorflow
         icon_pack: fas
-      - name: SQL
+      - name: Natural Language Processing
         description: ''
-        percent: 40
+        percent: 70
         icon: database
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Baking
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: cake
         icon_pack: fas
-      - name: Cats
+      - name: Dogs
         description: ''
         percent: 100
-        icon: cat
+        icon: dog
         icon_pack: fas
-      - name: Photography
+      - name: Journaling
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: book
         icon_pack: fas
 
 # Social/Academic Networking
@@ -93,19 +92,19 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:das.avisha@mayo.edu'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=snaeo_oAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/dasavisha
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
