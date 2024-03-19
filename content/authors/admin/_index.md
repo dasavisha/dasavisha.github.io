@@ -45,45 +45,45 @@ education:
       institution: Heritage Institute of Technology
       year: 2014
 
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 90
-        icon: python
-        icon_pack: fab
-      - name: Deep Learning
-        description: ''
-        percent: 70
-        icon: devicon/tensorflow
-        icon_pack: fas
-      - name: Natural Language Processing
-        description: ''
-        percent: 70
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Baking
-        description: ''
-        percent: 60
-        icon: cake
-        icon_pack: fas
-      - name: Dogs
-        description: ''
-        percent: 100
-        icon: dog
-        icon_pack: fas
-      - name: Journaling
-        description: ''
-        percent: 80
-        icon: book
-        icon_pack: fas
+# # Skills
+# # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+# skills:
+#   - name: Technical
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 90
+#         icon: python
+#         icon_pack: fab
+#       - name: Deep Learning
+#         description: ''
+#         percent: 70
+#         icon: devicon/tensorflow
+#         icon_pack: fas
+#       - name: Natural Language Processing
+#         description: ''
+#         percent: 70
+#         icon: database
+#         icon_pack: fas
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Baking
+#         description: ''
+#         percent: 60
+#         icon: cake
+#         icon_pack: fas
+#       - name: Dogs
+#         description: ''
+#         percent: 100
+#         icon: dog
+#         icon_pack: fas
+#       - name: Journaling
+#         description: ''
+#         percent: 80
+#         icon: book
+#         icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -119,5 +119,7 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Avisha Das is a Research Fellow at Machine Intelligence in Medical Imaging (MI2) Lab, Mayo Clinic, AZ. She has previously worked as a CPRIT Postdoctoral Scholar at University of Texas Health (UTHealth), Houston, TX. Her research interests lie in Large Language Modeling (LLM), focusing on natural language generation and understanding tasks.   
+She is currently concerned with:
+ - Privacy Concerns and Vulnerabilities of Large Language Models 
 {style="text-align: justify;"}
