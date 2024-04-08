@@ -132,25 +132,25 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+        - certificate_url: ''
+          date_end: '2024-04-30'
+          date_start: '2022-05-01'
           description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
+          icon: ''
+          organization: CPRIT and UTHealth-Houston
+          organization_url: https://www.uth.edu/big-tcr/
+          title: CPRIT BIG-TCR Postdoctoral Training Program Fellowship
+          url: https://www.uth.edu/big-tcr/people/trainees.htm
+        - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
+          date_start: '2022-03-01'
+          description: Part of the UTHealth-SBMI Team 
+          icon: ''
+          organization: National Center for Advancing Translational Sciences (NCAT)
+          organization_url: 'https://ncats.nih.gov/funding/challenges/litcoin'
+          title: Second Place in Litcoin NLP Challenge 
+          url: https://ncats.nih.gov/funding/challenges/litcoin/winners
+        - certificate_url: ''
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
