@@ -114,8 +114,6 @@ sections:
           date_start: '2017-06-01'
           date_end: '2017-08-30'
           description: Developed an auto-regressive neural model for fast and reliable estimation of fatigue damage in offshore drilling risers by analyzing real-time motion and temperature data from submerged sensors assessing failure estimation and maintenance. 
-        
-
 
     design:
       columns: '2'
@@ -196,7 +194,6 @@ sections:
           title: 'Hackathons'
           url: ''
     design:
-      view: compact
       columns: '2'
   - block: collection
     id: posts
