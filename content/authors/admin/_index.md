@@ -3,7 +3,7 @@
 title: Dr. Avisha Das, PhD
 
 # Name pronunciation (optional)
-name_pronunciation:  Ah - V EE - sh - ah 
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Avisha
@@ -38,10 +38,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science
+    - course: PhD, Computer Science
       institution: University of Houston
       year: 2020
-    - course: BTech in Electronics and Comm. Engineering
+    - course: BTech, in Electronics Engineering
       institution: Heritage Institute of Technology
       year: 2014
 
@@ -119,7 +119,10 @@ social:
 highlight_name: true
 ---
 
-Avisha Das is a Research Fellow at Machine Intelligence in Medical Imaging (MI2) Lab, Mayo Clinic, AZ. She has previously worked as a CPRIT Postdoctoral Scholar at University of Texas Health (UTHealth), Houston, TX. Her research interests lie in Large Language Modeling (LLM), focusing on natural language generation and understanding tasks.   
-She is currently concerned with:
- - Privacy Concerns and Vulnerabilities of Large Language Models 
+I am currently a Research Fellow with the Arizona Advanced AI & Innovation (A3I) Hub, Mayo Clinic, AZ. I have worked as a Postdoc at University of Texas Health Science Center, Houston with Dr. Wenjin J. Zheng and Dr. Hua Xu on Biomedical NLP and Knowledge Mining.  I earned my PhD from University of Houston under Dr. Rakesh Verma. 
+
+Research Areas: Generative Language Modeling, Information Retrieval, Biomedical NLP, Security Analytics
+My research interests lie in Large Language Modeling and Language Understanding. I am currently working on exploring LLM vulnerabilities in the Biomedical and Clinical Domain. I have previously worked on Biomedical Knowledge Mining and Retrieval as well as Empathetic Conversational Agents for Mental Health Support.
+ 
+ 
 {style="text-align: justify;"}
