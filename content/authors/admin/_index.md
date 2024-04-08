@@ -117,13 +117,13 @@ social:
 highlight_name: true
 ---
 
-I am currently a Research Fellow with the Arizona Advanced AI & Innovation (A3I) Hub, Mayo Clinic, AZ. I have worked as a Postdoc at University of Texas Health Science Center, Houston with Dr. Wenjin J. Zheng and Dr. Hua Xu on Biomedical NLP and Knowledge Mining.  I earned my PhD from University of Houston under Dr. Rakesh Verma. \
+I am currently a Research Fellow with the Arizona Advanced AI & Innovation (A3I) Hub, Mayo Clinic, AZ. I have worked as a Postdoc at University of Texas Health Science Center, Houston with Dr. Wenjin J. Zheng and Dr. Hua Xu on Biomedical NLP and Knowledge Mining.  I earned my PhD from University of Houston under Dr. Rakesh Verma. 
 
 
 My research interests lie in Large Language Modeling and Language Understanding. I am currently working on exploring LLM vulnerabilities in the Biomedical and Clinical Domain. I have previously worked on Biomedical Knowledge Mining and Retrieval as well as Empathetic Conversational Agents for Mental Health Support.
 
 
-Research Areas: Generative Language Modeling, Information Retrieval, Biomedical NLP, Security Analytics \
+Research Areas: Generative Language Modeling, Information Retrieval, Biomedical NLP, Security Analytics 
 
  
 {style="text-align: justify;"}

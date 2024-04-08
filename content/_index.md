@@ -89,8 +89,7 @@ sections:
           location: Houston, Texas
           date_start: '2020-12-01'
           date_end: '2014-08-30'
-          description: |2-
-                * Thesis: Proactive Defense through Automated Attack Generation: A Multi-pronged Study of Generated Deceptive Content
+          description: 'Thesis: Proactive Defense through Automated Attack Generation: A Multi-pronged Study of Generated Deceptive Content'
         - title: Data Science-NLP Intern
           company: Occidental (Oxy) Petroleum Corporation
           company_url: ''
