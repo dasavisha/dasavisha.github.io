@@ -29,11 +29,9 @@ bio: My research interests include Generative language modeling, Biomedical NLP 
 
 # Interests to show in About widget
 interests:
-  - Generative Language Modeling
-  - Computational Linguistics
-  - Information Retrieval
-  - Biomedical NLP
-  - AI Security
+  - Natural Language Processing and Generative Modeling
+  - Security and Large Language Modeling
+  - Knowledge Mining and Information Retrieval
 
 # Education to show in About widget
 education:
@@ -95,7 +93,7 @@ social:
     link: 'mailto:das.avisha@mayo.edu'
   - icon: twitter
     icon_pack: fab
-    link: 
+    link: https://twitter.com/das_avisha
     label: Follow me on Twitter
     display:
       header: true
@@ -107,7 +105,7 @@ social:
     link: https://github.com/dasavisha
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/avishad/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -119,10 +117,13 @@ social:
 highlight_name: true
 ---
 
-I am currently a Research Fellow with the Arizona Advanced AI & Innovation (A3I) Hub, Mayo Clinic, AZ. I have worked as a Postdoc at University of Texas Health Science Center, Houston with Dr. Wenjin J. Zheng and Dr. Hua Xu on Biomedical NLP and Knowledge Mining.  I earned my PhD from University of Houston under Dr. Rakesh Verma. 
+I am currently a Research Fellow with the Arizona Advanced AI & Innovation (A3I) Hub, Mayo Clinic, AZ. I have worked as a Postdoc at University of Texas Health Science Center, Houston with Dr. Wenjin J. Zheng and Dr. Hua Xu on Biomedical NLP and Knowledge Mining.  I earned my PhD from University of Houston under Dr. Rakesh Verma. \
 
-Research Areas: Generative Language Modeling, Information Retrieval, Biomedical NLP, Security Analytics
+
 My research interests lie in Large Language Modeling and Language Understanding. I am currently working on exploring LLM vulnerabilities in the Biomedical and Clinical Domain. I have previously worked on Biomedical Knowledge Mining and Retrieval as well as Empathetic Conversational Agents for Mental Health Support.
- 
+
+
+Research Areas: Generative Language Modeling, Information Retrieval, Biomedical NLP, Security Analytics \
+
  
 {style="text-align: justify;"}
