@@ -144,7 +144,8 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2022-03-01'
-          description: Part of the UTHealth-SBMI Team 
+          description: |2-
+            * Part of the UTHealth-SBMI Team 
           icon: ''
           organization: National Center for Advancing Translational Sciences (NCAT)
           organization_url: 'https://ncats.nih.gov/funding/challenges/litcoin'
@@ -160,6 +161,7 @@ sections:
           title: 'Object-Oriented Programming in R'
           url: ''
     design:
+      view: compact
       columns: '2'
   - block: collection
     id: posts
