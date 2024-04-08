@@ -115,7 +115,7 @@ sections:
           date_start: '2017-06-01'
           date_end: '2027-08-30'
           description: Developed an auto-regressive neural model for fast and reliable estimation of fatigue damage in offshore drilling risers by analyzing real-time motion and temperature data from submerged sensors assessing failure estimation and maintenance. 
-        -
+        
 
 
     design:
@@ -123,7 +123,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Awards and &shy;Honors'
+      title: 'Awards, Honors and &shy;Others'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
