@@ -67,7 +67,7 @@ sections:
           company_url: ''
           company_logo: ''
           location: Phoenix, Arizona
-          date_start: '2023-12-01'
+          date_start: '2023-11-01'
           date_end: ''
           description: |2-
               * Security and Clinical LLMs
@@ -80,8 +80,8 @@ sections:
           date_start: '2021-04-01'
           date_end: '2023-11-30'
           description: |2-
-              * Conversational Agents for Psychotherapy and Emotional Support
-              * Biomedical Literature Mining and Real-time Knowledge Distillation
+            * Conversational Agents for Psychotherapy and Emotional Support
+            * Biomedical Literature Mining and Real-time Knowledge Distillation
         - title: Graduate Assistant 
           company: Computer Science, University of Houston
           company_url: ''
