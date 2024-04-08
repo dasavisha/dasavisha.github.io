@@ -144,8 +144,7 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2022-03-01'
-          description: |2-
-            * Part of the UTHealth-SBMI Team 
+          description: ''
           icon: ''
           organization: National Center for Advancing Translational Sciences (NCAT)
           organization_url: 'https://ncats.nih.gov/funding/challenges/litcoin'
@@ -155,10 +154,46 @@ sections:
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          icon: ''
+          organization: 'University of Houston, Houston, TX'
+          organization_url: ''
+          title: 'Cullen Graduate Success Fellowship'
+          url: ''
+        - certificate_url: ''
+          date_end: '2014-12-21'
+          date_start: '2010-07-01'
+          description: ''
+          icon: ''
+          organization: 'Ministry of Human Resources-India, India'
+          organization_url: ''
+          title: 'Merit-based Scholarship for Undergraduate Education'
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: ''
+          description: |2-
+            * Annual Meeting of the Association for Computational Linguistics (ACL), 2020, 2022
+            * Grace Hopper Conference for Women in Computing (GHC), 2015, 2016, 2018
+            * International Workshop on Security and Privacy Analytics (IWSPA), 2017, 2018
+            * Empirical Methods in Natural Language Processing Conference (EMNLP), 2016
+            * Women in CyberSecurity Conference (WiCyS), 2016, 2017
+            * Computing Research Association for Women (CRA-W), 2015
+          icon: ''
+          organization: ''
+          organization_url: ''
+          title: 'Travel Grants'
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: ''
+          description: |2-
+            * First Place (DecorateAR), CodeRED Discovery, University of Houston, 2018
+            * Third Place , CodeRED Exploration, University of Houston, 2017
+            * Winner (HarveyTrack), Social Track at HackRice 7, Rice University, 2017
+          icon: ''
+          organization: ''
+          organization_url: ''
+          title: 'Hackathons'
           url: ''
     design:
       view: compact
