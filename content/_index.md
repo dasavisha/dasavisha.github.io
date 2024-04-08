@@ -62,33 +62,68 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Research Fellow
+          company: Arizona Advanced AI & Innovation (A3I) Hub, Mayo Clinic Arizona
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: ''
+          location: Phoenix, Arizona
+          date_start: '2023-12-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Security and Clinical LLMs
+              * Federated Learning and Critical Findings Retrieval
+        - title: Postdoctoral Research Scholar
+          company: School of Biomedical Informatics, University of Texas Health Science Center
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: ''
+          location: Houston, Texas
+          date_start: '2021-04-01'
+          date_end: '2023-11-30'
+          description: |2-
+                * Conversational Agents for Psychotherapy and Emotional Support
+                * Biomedical Literature Mining and Real-time Knowledge Distillation
+        - title: Graduate Assistant 
+          company: Computer Science, University of Houston
+          company_url: ''
+          company_logo: ''
+          location: Houston, Texas
+          date_start: '2020-12-01'
+          date_end: '2014-08-30'
+          description: |2-
+                * Thesis: Proactive Defense through Automated Attack Generation: A Multi-pronged Study of Generated Deceptive Content
+        - title: Data Science-NLP Intern
+          company: Occidental (Oxy) Petroleum Corporation
+          company_url: ''
+          company_logo: ''
+          location: The Woodlands, Texas
+          date_start: '2019-05-01'
+          date_end: '2019-08-30'
+          description: Designed and optimized a reinforcement learning-based virtual conversational assistant to aid in digital operations and provide guided insights into system maintenance and failure detection to engineers at remote on-shore drilling rigs.
+        - title: Summer Research Intern
+          company: Production Solutions Team, Halliburton Energy Services
+          company_url: ''
+          company_logo: ''
+          location: Houston, Texas
+          date_start: '2018-05-01'
+          date_end: '2018-08-30'
+          description: Implemented and designed an optimized tool for real-time automated failure and anomaly detection and prediction by leveraging supervised machine learning models trained on offshore subsea riser pipes, improving timely tool maintenance and failure detection rate by 15%.
+        - title: Data Science Intern
+          company: 2H Offshore Inc.
+          company_url: ''
+          company_logo: ''
+          location: Houston, Texas
+          date_start: '2017-06-01'
+          date_end: '2027-08-30'
+          description: Developed an auto-regressive neural model for fast and reliable estimation of fatigue damage in offshore drilling risers by analyzing real-time motion and temperature data from submerged sensors assessing failure estimation and maintenance. 
+        -
+
+
     design:
       columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Awards and &shy;Honors'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
