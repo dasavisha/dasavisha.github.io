@@ -168,7 +168,7 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '""'
+          date_start: '2014-07-01'
           description: |2-
             * Annual Meeting of the Association for Computational Linguistics (ACL), 2020, 2022
             * Grace Hopper Conference for Women in Computing (GHC), 2015, 2016, 2018
@@ -183,7 +183,7 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '""'
+          date_start: '2014-07-01'
           description: |2-
             * First Place (DecorateAR), CodeRED Discovery, University of Houston, 2018
             * Third Place , CodeRED Exploration, University of Houston, 2017
