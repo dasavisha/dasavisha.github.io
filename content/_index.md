@@ -167,8 +167,8 @@ sections:
           title: 'Merit-based Scholarship for Undergraduate Education'
           url: ''
         - certificate_url: ''
-          date_end: ''
-          date_start: '2014-07-01'
+          date_end: '2022-12-01'
+          date_start: '2014-08-01'
           description: |2-
             * Annual Meeting of the Association for Computational Linguistics (ACL), 2020, 2022
             * Grace Hopper Conference for Women in Computing (GHC), 2015, 2016, 2018
@@ -177,19 +177,19 @@ sections:
             * Women in CyberSecurity Conference (WiCyS), 2016, 2017
             * Computing Research Association for Women (CRA-W), 2015
           icon: ''
-          organization: ''
+          organization: 'Various'
           organization_url: ''
           title: 'Travel Grants'
           url: ''
         - certificate_url: ''
-          date_end: ''
-          date_start: '2014-07-01'
+          date_end: '2018-07-01'
+          date_start: '2017-07-01'
           description: |2-
             * First Place (DecorateAR), CodeRED Discovery, University of Houston, 2018
             * Third Place , CodeRED Exploration, University of Houston, 2017
             * Winner (HarveyTrack), Social Track at HackRice 7, Rice University, 2017
           icon: ''
-          organization: ''
+          organization: 'Various'
           organization_url: ''
           title: 'Hackathons'
           url: ''
@@ -198,7 +198,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Invited Talks 
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -206,7 +206,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - post
+          - invitedTalks
         author: ""
         category: ""
         tag: ""
