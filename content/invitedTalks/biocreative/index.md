@@ -3,7 +3,7 @@ title: Domain-specific Transformer Models for Drug-Protein Relation Extraction.
 date: '2022-09-16'
 summary: Invited Talk for the CPH Seminar in Precision Medicine (UTHealth-Houston)
 ---
-
+<!-- 
 
 ```python
 from IPython.core.display import Image
@@ -31,4 +31,4 @@ pipx install academic
 academic import 'notebooks/**.ipynb' content/post/ --verbose
 ```
 
-The notebooks will be published to the folder you specify above. In this case, they will be published to your `content/post/` folder. 
+The notebooks will be published to the folder you specify above. In this case, they will be published to your `content/post/` folder.  -->
