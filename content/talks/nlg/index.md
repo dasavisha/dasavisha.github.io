@@ -3,10 +3,10 @@ title: Natural Language Understanding and Generation
 
 event: Hugo Blox Builder Conference
 
-summary: Invited Talk for the CPH Seminar in Precision Medicine (UTHealth-Houston)
+summary: Talk for Advanced Natural Language Processing Course (University of Houston), 2022
 
-date: '2022-09-16T13:00:00Z'
+date: '2023-08-23T13:00:00Z'
 all_day: true
 ---
 
-![png](output_1_0.png)
+<!-- ![png](output_1_0.png) -->

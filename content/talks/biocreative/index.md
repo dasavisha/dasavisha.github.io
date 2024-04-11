@@ -12,7 +12,7 @@ all_day: true
 
 ---
 
-![png](output_1_0.png)
+<!-- ![png](output_1_0.png) -->
 
 <!-- 
 
