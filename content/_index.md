@@ -206,7 +206,7 @@ sections:
       # # Filter on criteria
       filters:
         folders:
-          - invitedTalks
+          - talks
       #   author: ""
       #   category: ""
       #   tag: ""
