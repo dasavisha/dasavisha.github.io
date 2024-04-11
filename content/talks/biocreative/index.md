@@ -11,8 +11,10 @@ all_day: true
 
 
 ---
-Hello World!
+The talk has been recorded and available. 
+Access the presentation [here].
 
+[here]: https://www.youtube.com/watch?v=9C7hnTmKQj0&ab_channel=BiomedicalTextMining 
 <!-- ![png](output_1_0.png) -->
 
 <!-- 
