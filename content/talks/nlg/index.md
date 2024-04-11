@@ -3,7 +3,7 @@ title: Natural Language Understanding and Generation
 
 event: Hugo Blox Builder Conference
 
-summary: Talk for Advanced Natural Language Processing Course (University of Houston), 2022
+summary: Talk for Advanced Natural Language Processing Course (University of Houston)
 
 date: '2023-08-23T13:00:00Z'
 all_day: true
