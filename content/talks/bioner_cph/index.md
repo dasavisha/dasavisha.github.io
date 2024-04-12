@@ -3,7 +3,7 @@ title: "Leveraging NLP for Mining Biomedical Data: Domain-specific Transformer M
 
 event: Hugo Blox Builder Conference
 
-summary:  Invited Talk for the Center for Precision Health Seminar
+summary:  Invited Talk for the Center for Precision Health Seminar (UTHealth-Houston)
 
 date: '2022-07-08T13:00:00Z'
 all_day: true
