@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Avisha Das, PhD
+title: Avisha Das
 
 # Name pronunciation (optional)
 name_pronunciation: 
