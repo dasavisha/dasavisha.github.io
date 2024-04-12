@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Fellow, Natural Language Processing
+role: Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,11 +25,11 @@ organizations:
     url: https://www.mayoclinic.org/patient-visitor-guide/arizona
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Generative language modeling, Biomedical NLP and AI Security.
+bio: My research interests include natural language understanding and generation with a focus on Biomedical NLP and AI Security.
 
 # Interests to show in About widget
 interests:
-  - Natural Language Processing and Generative Modeling
+  - Natural Language Generation and Understanding
   - Security and Large Language Modeling
   - Knowledge Mining and Information Retrieval
 
@@ -37,10 +37,10 @@ interests:
 education:
   courses:
     - course: PhD, Computer Science
-      institution: University of Houston
+      institution: University of Houston, Houston, TX
       year: 2020
-    - course: BTech, in Electronics Engineering
-      institution: Heritage Institute of Technology
+    - course: BTech, Electronics Engineering
+      institution: West Bengal University of Technology, Kolkata, IN
       year: 2014
 
 # # Skills
