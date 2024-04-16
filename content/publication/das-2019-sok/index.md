@@ -26,8 +26,8 @@ abstract: Phishing and spear phishing are typical examples of masquerade attacks
 This viewpoint consolidates the literature and illuminates several opportunities for improving existing solutions. We organize the existing literature based on detection techniques for different attack vectors (e.g., URLs, websites, emails) along with studies on user awareness. For detection techniques we examine properties of the dataset, feature extraction, detection algorithms used, and performance evaluation metrics. This work can help guide the development of more effective defenses for phishing, spear
 phishing and email masquerade attacks of the future, as well as provide a framework for a thorough evaluation and comparison.
 
-<!-- # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. -->
+# <!-- # Summary. An optional shortened abstract.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. -->
 
 tags:
 - Source Themes
