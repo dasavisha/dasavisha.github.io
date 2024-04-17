@@ -1,17 +1,20 @@
 ---
-title: 'SoK: a comprehensive reexamination of phishing research from the security
-  perspective'
+title: "SoK: a comprehensive reexamination of phishing research from the security
+  perspective"
 authors:
 - admin
 - Shahryar Baki
 - Ayman El Aassal
 - Rakesh Verma
 - Arthur Dunbar
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: "2019-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-03-18T21:07:18.280687Z'
+publishDate: "2024-03-18T21:07:18.280687Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -19,12 +22,12 @@ publishDate: '2024-03-18T21:07:18.280687Z'
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: '*IEEE Communications Surveys & Tutorials*'
+publication: "*IEEE Communications Surveys & Tutorials*"
 publication_short: ""
 
-abstract: Phishing and spear phishing are typical examples of masquerade attacks since trust is built up through impersonation for the attack to succeed. Given the prevalence of these attacks, considerable research has been conducted on these problems along multiple dimensions. We reexamine the existing research on phishing and spear phishing from the perspective of the unique needs of the security domain, which we call security challenges: real-time detection, active attacker, dataset quality and base-rate fallacy. We explain these challenges and then survey the existing phishing/spear phishing solutions in their light.
+abstract: "Phishing and spear phishing are typical examples of masquerade attacks since trust is built up through impersonation for the attack to succeed. Given the prevalence of these attacks, considerable research has been conducted on these problems along multiple dimensions. We reexamine the existing research on phishing and spear phishing from the perspective of the unique needs of the security domain, which we call security challenges: real-time detection, active attacker, dataset quality and base-rate fallacy. We explain these challenges and then survey the existing phishing/spear phishing solutions in their light.
 This viewpoint consolidates the literature and illuminates several opportunities for improving existing solutions. We organize the existing literature based on detection techniques for different attack vectors (e.g., URLs, websites, emails) along with studies on user awareness. For detection techniques we examine properties of the dataset, feature extraction, detection algorithms used, and performance evaluation metrics. This work can help guide the development of more effective defenses for phishing, spear
-phishing and email masquerade attacks of the future, as well as provide a framework for a thorough evaluation and comparison.
+phishing and email masquerade attacks of the future, as well as provide a framework for a thorough evaluation and comparison."
 
 # <!-- # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. -->
@@ -36,7 +39,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8924660"
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8924660
 url_code: ''
 url_dataset: ''
 url_poster: ''
