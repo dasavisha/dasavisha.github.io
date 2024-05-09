@@ -15,8 +15,8 @@ publishDate: "2024-03-18T21:07:18.262270Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: In "*arXiv preprint arXiv:2007.07403*"
-publication_short: In "*arXiv*"
+publication: ""
+publication_short: ""
 
 abstract: Advanced machine learning and natural language techniques enable attackers to launch sophisticated and targeted social engineering-based attacks. To counter the active attacker issue, researchers have since resorted to proactive methods of detection. Email masquerading using targeted emails to fool the victim is an advanced attack method. However automatic text generation requires controlling the context and coherency of the generated content, which has been identified as an increasingly difficult problem. The method used leverages a hierarchical deep neural model which uses a learned representation of the sentences in the input document to generate structured written emails. We demonstrate the generation of short and targeted text messages using the deep model. The global coherency of the synthesized text is evaluated using a qualitative study as well as multiple quantitative measures.
 
