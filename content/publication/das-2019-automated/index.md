@@ -22,11 +22,11 @@ publishDate: '2017-01-01T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: '*arXiv preprint arXiv:1908.06893*'
-publication_short: In *arXiv*
+publication: In *TACOS Workshop* co-located with LREC
+publication_short: In *TA-COS*
 
 abstract: With an increasing number of malicious attacks, the number of people and organizations falling prey to social engineering attacks is proliferating. Despite considerable research in mitigation systems, attackers continually improve their modus operandi by using sophisticated machine learning, natural language processing techniques with an intent to launch successful targeted attacks aimed at deceiving detection mechanisms as well as the victims. We propose a system for advanced email masquerading attacks using Natural Language Generation (NLG) techniques. Using legitimate as well as an influx of varying malicious content, the proposed deep learning system generates fake emails with malicious content, customized depending on the attacker’s intent. The system leverages Recurrent Neural Networks (RNNs) for automated text generation. We also focus on the performance of the generated emails in defeating statistical detectors, and compare and analyze the emails using a proposed baseline.
 
@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/1908.06893.pdf'
+url_pdf: 'https://www.ta-cos.org/sites/ta-cos.org/files/4_W32.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
