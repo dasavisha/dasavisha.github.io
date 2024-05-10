@@ -37,7 +37,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Studies in Health Technology and Informatics*
-publication_short: In *MEDINDO*
+publication_short: In *MEDINFO*
 
 abstract: Automatic extraction of relations between drugs/chemicals and proteins from ever-growing biomedical literature is required to build up-to-date knowledge bases in biomedicine. To promote the development of automated methods, BioCreative-VII organized a shared task - the DrugProt track, to recognize drug-protein entity relations from PubMed abstracts. We participated in the shared task and leveraged deep learning-based transformer models pre-trained on biomedical data to build ensemble approaches to automatically extract drug-protein relation from biomedical literature. On the main corpora of 10,750 abstracts, our best system obtained an F1-score of 77.60% (ranked 4th among 30 participating teams), and on the large-scale corpus of 2.4M documents, our system achieved micro-averaged F1-score of 77.32% (ranked 2nd among 9 system submissions). This demonstrates the effectiveness of domain-specific transformer models and ensemble approaches for automatic relation extraction from biomedical literature.
 
