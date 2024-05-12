@@ -23,9 +23,9 @@ publication: "*IEEE Access*"
 publication_short: "*IEEE Access*"
 
 abstract: We perform an in-depth, systematic benchmarking study and evaluation of phishing features on diverse and extensive datasets. We propose a new taxonomy of features based on the interpretation and purpose of each feature. Next, we propose a benchmarking framework called ‘PhishBench,’ which enables us to evaluate and compare the existing features for phishing detection systematically and thoroughly under identical experimental conditions, i.e., unified system specification, datasets, classifiers, and evaluation metrics. PhishBench is a first in the field of benchmarking phishing related research and incorporates thorough and systematic evaluation and feature comparison. We use PhishBench to test methods published in the phishing literature on new and diverse datasets to check their robustness and scalability. We study how dataset characteristics, e.g., varying legitimate to phishing ratios and increasing the size of imbalanced datasets, affect classification performance. Our results show that the imbalanced nature of phishing attacks affects the detection systems’ performance and researchers should take this into account when proposing a new method. We also found that retraining alone is not enough to defeat new attacks. New features and techniques are required to stop attackers from fooling detection systems.
-<!-- 
+ 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. -->
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. 
 
 tags:
 - Source Themes
