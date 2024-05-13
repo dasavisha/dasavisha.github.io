@@ -1,5 +1,5 @@
 ---
-title: 'Anti-phishing pilot at ACM IWSPA 2018'
+title: 'Anti-phishing pilot at ACM IWSPA 2018: Evaluating Performance with New Metrics for Unbalanced Datasets'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -28,10 +28,9 @@ publication: In *Proceedings 1st Anti-Phishing Shared Pilot 4th ACM Internationa
   Analytics (IWSPA)*
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper provides a summary of the IWSPA Anti-Phishing shared task pilot. The pilot consisted of two subtasks, identifying phishing emails from a collection of legitimate and phishing email bodies, and separating phishing emails from legitimate emails when given full emails, i.e., with headers and bodies. For both subtasks, training datasets were made available approximately a month before the test data was released. Sixteen teams registered for the task and nine submitted models and predictions for the test data. We discuss the collection sources and preprocessing of the datasets, and the performance of the teams on the test data from several different perspectives. A unique aspect of the dataset was that it included synthetic attacks. Another emphasis in both subtasks was that the phishing class was much smaller than the legitimate class to reflect the real-world scenario. Hence, we introduce two evaluation metrics, called balanced detection rate and normalized balanced detection rate, which to our knowledge are new and moresuitable for unbalanced datasets. We then evaluate the performance of the teams on the usual metrics as well as metrics for unbalanced datasets, including the new metrics.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
 
 tags: []
 
