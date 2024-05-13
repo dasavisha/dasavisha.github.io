@@ -5,7 +5,7 @@ authors:
 - Ayman El Aassal
 - Shahryar Baki
 - admin
-- Rakesh M Verma
+- Rakesh Verma
 
 date: "2020-01-01"
 doi: ""
