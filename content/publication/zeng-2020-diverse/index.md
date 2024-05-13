@@ -25,9 +25,9 @@ publishDate: '2024-03-18T21:07:18.268379Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: *Proceedings of the Sixth International Workshop on Security and Privacy
+publication: In *Proceedings of the Sixth International Workshop on Security and Privacy
   Analytics*
-publication_short: In *ICW*
+publication_short: ""
 
 
 
