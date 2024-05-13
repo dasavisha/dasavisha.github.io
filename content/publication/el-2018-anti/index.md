@@ -24,8 +24,8 @@ publishDate: '2024-03-18T21:07:18.298898Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In '*Proceedings 1st Anti-Phishing Shared Pilot 4th ACM International Workshop on Security and Privacy
-  Analytics (IWSPA)*'
+publication: In *Proceedings 1st Anti-Phishing Shared Pilot 4th ACM International Workshop on Security and Privacy
+  Analytics (IWSPA)*
 publication_short: ""
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
