@@ -22,8 +22,7 @@ publication_types: ["article-journal"]
 publication: "*Scientometrics*"
 publication_short: "*Scientometrics*"
 
-abstract: We consider the three interesting problems posed by the CL-SciSumm series of shared tasks. Given a reference document D and a set of citances for D: (1) find the span of reference text that corresponds to each citance, (2) identify the facet corresponding to each span of reference text from a predefined list of five facets, and (3) construct a summary of at most 250 words for D based on the reference spans. The shared task provided annotated training and test sets for these problems. This paper describes our efforts and the results achieved for each problem, and also a discussion of some interesting parameters of the datasets, which may spur further improvements and innovations.
-
+abstract: We consider the three interesting problems posed by the CL-SciSumm series of shared tasks. Given a reference document D and a set of citances for D, (1) find the span of reference text that corresponds to each citance, (2) identify the facet corresponding to each span of reference text from a predefined list of five facets, and (3) construct a summary of at most 250 words for D based on the reference spans. The shared task provided annotated training and test sets for these problems. This paper describes our efforts and the results achieved for each problem, and also a discussion of some interesting parameters of the datasets, which may spur further improvements and innovations. 
 
 tags:
 - Source Themes
