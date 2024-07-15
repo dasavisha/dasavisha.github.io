@@ -111,7 +111,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Avisha_CV_2024_July.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
