@@ -116,7 +116,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-**I am currently on the job market and looking for tenure-track faculty positions in Biomedical Informatics with a focus on Clinical NLP and Large Language Modeling.** 
+**I am currently on the job market and looking for tenure-track faculty positions in Biomedical Informatics with a focus on Clinical NLP and Secure Large Language Modeling.** 
 
 I am currently a Research Fellow with the Arizona Advanced AI & Innovation (A3I) Hub, Mayo Clinic, AZ. I have worked as a Postdoc at University of Texas Health Science Center, Houston with Dr. Wenjin J. Zheng and Dr. Hua Xu on Biomedical NLP and Knowledge Mining.  I earned my PhD from University of Houston under Dr. Rakesh Verma. 
 
